@@ -2,7 +2,7 @@
 - 👀 I’m interested in eletric enginnering, computer science, Linux, low level languages. 
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on simple projects.
-- 📫 How to reach me e-mail me: ppfon@ufmg.br
+- 📫 How to reach me: ppfon@ufmg.br
 
 <!---
 ppfon/ppfon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
